@@ -1,1 +1,1 @@
-<prescription xmlns="http://greenify.github.io/schemas/prescription/v1" type="service" package="com.xiaomi.smarthome" class="com.xiaomi.push.service.XMJobService" />
+<prescription xmlns="http://greenify.github.io/schemas/prescription/v1" type="service" class="com.xiaomi.push.service.XMJobService" />
