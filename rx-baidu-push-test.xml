@@ -1,5 +1,1 @@
-<prescription xmlns="http://greenify.github.io/schemas/prescription/v1" type="broadcast">
-  <intent-filter>
-    <action name="com.baidu.android.pushservice.action.METHOD" />
-  </intent-filter>
-</prescription>
+<prescription xmlns="http://greenify.github.io/schemas/prescription/v1" type="service" package="com.xiaomi.smarthome" class="com.xiaomi.push.service.XMJobService" />
